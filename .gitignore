@@ -25,3 +25,4 @@ jhw.*
 dist/
 generated/
 .vendor/
+.serverless
