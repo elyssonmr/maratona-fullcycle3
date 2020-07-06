@@ -26,3 +26,8 @@ dist/
 generated/
 .vendor/
 .serverless
+
+
+__pycache__
+*.pyc
+*.sqlite3
